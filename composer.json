@@ -1,5 +1,5 @@
 {
-    "name": "vendor/select",
+    "name": "diego/select2",
     "description": "this is test package",
     "type": "library",
     "authors": [
