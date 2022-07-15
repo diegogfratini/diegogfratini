@@ -1,5 +1,5 @@
 {
-    "name": "packages/select2",
+    "name": "vendor/select2",
     "description": "this is test package",
      "minimum-stability": "dev",
     "authors": [
