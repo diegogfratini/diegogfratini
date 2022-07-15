@@ -1,7 +1,7 @@
-{
-    "name": "vendor/select2",
+
+    "name": "packages/select",
     "description": "this is test package",
-     "minimum-stability": "dev",
+    "type": "library",
     "authors": [
         {
             "name": "wengchangshui",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wcs\\test\\": "src/"
+            "Wcs\\test\\": "vendor/"
         }
     }
 }
