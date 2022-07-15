@@ -1,11 +1,18 @@
 {
-    "name": "vendor/desarrollo",
-    "description": "Description of project select2.",
+    "name": "packages/select2",
+    "description": "this is test package",
+    "type": "library",
     "authors": [
         {
-            "name": "diego",
-            "email": "your@email.here"
+            "name": "wengchangshui",
+            "email": "723944127@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Wcs\\test\\": "src/"
+        }
+    }
 }
