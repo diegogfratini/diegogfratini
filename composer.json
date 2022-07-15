@@ -1,8 +1,7 @@
 {
-    "name": "diegogfratini/sistemas",
-     "autoload": {
-        "psr-4": {
-            "Wcs\\test\\": "vendor/"
-        }
+    "name": "diegogfratini/sistemas",  
+    "require": {
+        "paragonie/sodium_compat": "^1.9",
+        "paragonie/random_compat": "~1.1"
     }
 }
