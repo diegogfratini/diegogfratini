@@ -1,7 +1,13 @@
 {
-    "name": "diegogfratini/sistemas",  
+    "name": "globalsoftsolutions/sistemas",  
     "require": {
         "paragonie/sodium_compat": "^1.9",
         "paragonie/random_compat": "~1.1"
+    },
+    "autoload": {
+        "files": ["src/ssp_class.php",
+            "src/util_class.php",         
+            "src/cryptor.php"
+        ]
     }
 }
