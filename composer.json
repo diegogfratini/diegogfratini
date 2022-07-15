@@ -2,13 +2,18 @@
     "name": "diegogfratini/select2",
     "description": "this is test package",
     "type": "library",
+       "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
     "authors": [
         {
-            "name": "wengchangshui",
-            "email": "723944127@qq.com"
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be",
+            "role": "Developer"
         }
     ],
     "require": {
+        "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
