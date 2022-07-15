@@ -1,7 +1,7 @@
 {
     "name": "packages/select2",
     "description": "this is test package",
-    "type": "library",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "wengchangshui",
